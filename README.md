@@ -35,6 +35,21 @@
 - 조회 수는 사용자가 게시글을 누를 때마다 서버에 요청하게 되어 서버에서 받아 올 때마다 조회수를 1씩 증가 시킵니다.
 - 페이지네이션을 활용하여 게시글이 10개가 넘어 갈 경우 자동으로 다음 페이지로 넘어갑니다.
 - 실시간 검색 순위는 flask 서버에서 Apscheduler를 이용하여 정해진 시간마다 데이터를 수집하여 순위를 보여줍니다.
+- 
+## 구현 상세 페이지
+|판매 페이지1|판매 페이지2|커뮤니티|
+|---|---|---|
+<img src="https://github.com/aforo3/digging_in/blob/main/Category.png?raw=true.png" width="400" height="600"/>
+<img src="https://github.com/aforo3/digging_in/blob/main/Category2.png?raw=true.png" width="400" height="600"/>
+<img src="https://github.com/aforo3/digging_in/blob/main/Community.png?raw=true.png" width="400" height="600"/>
+|도서 관련 판매 페이지|굿즈 관련 판매 페이지|댓글 대댓글 작성 가능, 커뮤니티 분류 가능|
+
+|물품 등록하기|인기 검색어 차트|회원가입|
+|---|---|---|
+<img src="https://github.com/aforo3/digging_in/blob/main/Selling.png?raw=true.png" width="400" height="600"/>
+<img src="https://github.com/aforo3/digging_in/blob/main/Ranking.png?raw=true.png" width="400" height="600"/>
+<img src="https://github.com/aforo3/digging_in/blob/main/sign_in.png?raw=true.png" width="400" height="600"/>
+|카테고리 선택, 사진 업로드 가능|매일 오전 10시 업데이트|회원가입|
 
 ## 버전 정보
 
