@@ -1,4 +1,5 @@
-# Digging
+# 웹사이트 'Digging' 제작
+
 # 프로젝트 시작
 
 !!!!!소스 다운로드후 아래 순서대로 실행 부탁드립니다!!!!!
@@ -11,4 +12,3 @@ npm i<br>
 nodemon server.js<br>
 react폴더안에서<br>
 npm start
-
