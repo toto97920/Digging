@@ -19,7 +19,7 @@
 
 ## 프로젝트 설명
 
-| ![image width="10", height="10"](https://github.com/aforo3/digging_in/blob/main/20240102_150130.png?raw=true) |
+| !<image width="100", height="100"/>(https://github.com/aforo3/digging_in/blob/main/20240102_150130.png?raw=true) |
 | :-----------------------------------------------------------------------------------: |
 |                                       메인 화면                                       |
 
