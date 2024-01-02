@@ -39,9 +39,7 @@
 ## 구현 상세 페이지
 |판매 페이지1|판매 페이지2|커뮤니티|
 |---|---|---|
-<img src="https://github.com/aforo3/digging_in/blob/main/Category.png?raw=true.png" width="400" height="600"/>
-<img src="https://github.com/aforo3/digging_in/blob/main/Category2.png?raw=true.png" width="400" height="600"/>
-<img src="https://github.com/aforo3/digging_in/blob/main/Community.png?raw=true.png" width="400" height="600"/>
+<img src="https://github.com/aforo3/digging_in/blob/main/Category.png?raw=true.png" width="400" height="600"/><img src="https://github.com/aforo3/digging_in/blob/main/Category2.png?raw=true.png" width="400" height="600"/><img src="https://github.com/aforo3/digging_in/blob/main/Community.png?raw=true.png" width="400" height="600"/>
 |도서 관련 판매 페이지|굿즈 관련 판매 페이지|댓글 대댓글 작성 가능, 커뮤니티 분류 가능|
 
 |물품 등록하기|인기 검색어 차트|회원가입|
