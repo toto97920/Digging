@@ -18,7 +18,7 @@
 - 주소 : https://web-diggingfront-wr4oe2alqrvinum.sel5.cloudtype.app/
 
 ## 프로젝트 설명
-|<img src="https://github.com/aforo3/digging_in/blob/main/Mainpage.png?raw=true.png" width:"400" height:"600"/>|
+<img src="https://github.com/aforo3/digging_in/blob/main/Mainpage.png?raw=true.png" width:"400" height:"600"/>
 |:---:|
 |메인 화면|
 
